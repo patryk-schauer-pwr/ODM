@@ -11,7 +11,7 @@ if(CUDA_FOUND)
         STAMP_DIR         ${_SB_BINARY_DIR}/stamp
         #--Download step--------------
         DOWNLOAD_DIR      ${SB_DOWNLOAD_DIR}
-        GIT_REPOSITORY    https://github.com/patryk-schauer-pwr/ODM
+        GIT_REPOSITORY    https://github.com/patryk-schauer-pwr/pypopsift
         #GIT_TAG           288
         #--Update/Patch step----------
         UPDATE_COMMAND    ""
