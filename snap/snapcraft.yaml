@@ -99,7 +99,7 @@ parts:
       - libopenjpip7
       - liblapack3
       - libpng16-16
-      - libproj22
+      - libproj15
       - libswscale5
       - libtbb2
       - libtiff5
